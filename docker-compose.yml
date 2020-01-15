@@ -10,5 +10,5 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: password
       MYSQL_DATABASE: cognito_sample_development
-      MYSQL_USER: cognito
+      MYSQL_USER: cognito_sample
       MYSQL_PASSWORD: password
